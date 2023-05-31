@@ -1,0 +1,14 @@
+body{background: linear-gradient(red 0%, orange 100%);}
+#botón_enviar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+#botón_ordenar{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+}
